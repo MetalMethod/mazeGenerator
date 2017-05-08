@@ -1,6 +1,9 @@
 # mazeGenerator
 A mazeGenerator built with p5.js, based on Daniel Shiffman´s tutorials on youtube.
 
+online at:
+http://metalmethod.github.io/mazeGenerator
+
 Done with the framework p5.js
 http://www.p5js.org
 
